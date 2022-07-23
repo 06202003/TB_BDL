@@ -11,3 +11,16 @@ body {
 .offcanvas {
   background-color: rgb(202, 116, 130);
 }
+.home {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+.gg {
+  max-width: 400px;
+  height: auto;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
